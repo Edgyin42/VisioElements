@@ -14,15 +14,15 @@
 
 Embark on a visually captivating journey through the periodic table with VisioElements – your gateway to a dynamic and interactive exploration of the chemical world. Gone are the days of static tables; VisioElements brings the elements to life, offering an immersive and engaging experience for students, educators, and chemistry enthusiasts alike.
 
-### Key Features:  <a name="Features"></a> 
+## Key Features:  <a name="Features"></a> 
 
-# Visualized Exploration: Dive into a beautifully crafted, interactive periodic table that transforms the traditional learning experience. Visually appealing representations of each element provide insights into their properties and characteristics.
+### Visualized Exploration: Dive into a beautifully crafted, interactive periodic table that transforms the traditional learning experience. Visually appealing representations of each element provide insights into their properties and characteristics.
 
-# Real-time Updates: Stay informed with real-time updates on the latest scientific discoveries and advancements in the world of chemistry. VisioElements ensures that you're always up-to-date with the evolving nature of the elements.
+### Real-time Updates: Stay informed with real-time updates on the latest scientific discoveries and advancements in the world of chemistry. VisioElements ensures that you're always up-to-date with the evolving nature of the elements.
 
-# Calculate molecule mass of any molecules in the world!!!!!!!
+### Calculate molecule mass of any molecules in the world!!!!!!!
 
-## Unlock the secrets of the elements with VisioElements – where education meets innovation, and chemistry becomes an exploration filled with discovery.
+#### Unlock the secrets of the elements with VisioElements – where education meets innovation, and chemistry becomes an exploration filled with discovery.
 
 </div>
 
@@ -42,5 +42,5 @@ This is the first project I build as a CS student and a coder. I'm really excite
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
