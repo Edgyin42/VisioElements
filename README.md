@@ -1,32 +1,30 @@
-
 <!-- TABLE OF CONTENTS -->
 # Table of contents :round_pushpin:
 1. [Introduction](#Introduction)
 2. [Key Features](#Features)
-3. [Development files](#Development files)
+3. [Development files](#Development-files)
 4. [LICENSE](#License)
-
 
 ## Introduction <a name="Introduction"></a> :
 
-<div style="text-align:justify">
-#Explore the Elements in Style
+<div style="text-align:justify; color: #009688;"> <!-- Teal color -->
+# Explore the Elements in Style
 
 Embark on a visually captivating journey through the periodic table with VisioElements – your gateway to a dynamic and interactive exploration of the chemical world. Gone are the days of static tables; VisioElements brings the elements to life, offering an immersive and engaging experience for students, educators, and chemistry enthusiasts alike.
 
 ## Key Features:  <a name="Features"></a> 
 
-### Visualized Exploration: Dive into a beautifully crafted, interactive periodic table that transforms the traditional learning experience. Visually appealing representations of each element provide insights into their properties and characteristics.
+Visualized Exploration: Dive into a beautifully crafted, interactive periodic table that transforms the traditional learning experience. Visually appealing representations of each element provide insights into their properties and characteristics.
 
-### Real-time Updates: Stay informed with real-time updates on the latest scientific discoveries and advancements in the world of chemistry. VisioElements ensures that you're always up-to-date with the evolving nature of the elements.
+Real-time Updates: Stay informed with real-time updates on the latest scientific discoveries and advancements in the world of chemistry. VisioElements ensures that you're always up-to-date with the evolving nature of the elements.
 
-### Calculate molecule mass of any molecules in the world!!!!!!!
+<span style="color: #FF9800;">Calculate molecule mass of any molecules in the world!!!!!!!</span> <!-- Orange color -->
 
-#### Unlock the secrets of the elements with VisioElements – where education meets innovation, and chemistry becomes an exploration filled with discovery.
+Unlock the secrets of the elements with VisioElements – where education meets innovation, and chemistry becomes an exploration filled with discovery.
 
 </div>
 
-### Development files <a name="Development files"></a> : 
+### Development files <a name="Development-files"></a> : 
 Each stage of developments and its files are stored in each folder, including the test files. 
 
 ### Installation :dart: 
@@ -35,12 +33,10 @@ The final version is located in the "4" folder. In this folder, simply just clic
 
 ### Motivation :mechanical_arm:
 
-<div style="text-align:justify">
+<div style="text-align:justify; color: #673AB7;"> <!-- Deep Purple color -->
 This is the first project I build as a CS student and a coder. I'm really excited to embrace in the journey ahead!
 </div>
-
 
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
-
