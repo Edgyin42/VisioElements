@@ -1,0 +1,43 @@
+    function CreateTableB(pt2)
+    global pt2; 
+     % Create and position axes objects for B-groups elements in pt2
+   axes('Parent',pt2,'Position', [0.15 0.55 0.04 0.09],'Tag','Sc');
+   axes('Parent',pt2,'Position', [0.15 0.55 0.04 0.09],'Tag','Sc');
+   axes('Parent',pt2,'Position', [0.2 0.55 0.04 0.09],'Tag','Ti');
+   axes('Parent',pt2,'Position', [0.25 0.55 0.04 0.09],'Tag','V');
+   axes('Parent',pt2,'Position', [0.3 0.55 0.04 0.09],'Tag','Cr');
+   axes('Parent',pt2,'Position', [0.35 0.55 0.04 0.09],'Tag','Mn');
+   axes('Parent',pt2,'Position', [0.4 0.55 0.04 0.09],'Tag','Fe');   
+   axes('Parent',pt2,'Position', [0.45 0.55 0.04 0.09],'Tag','Co');
+   axes('Parent',pt2,'Position', [0.5 0.55 0.04 0.09],'Tag','Ni');
+   axes('Parent',pt2,'Position', [0.55 0.55 0.04 0.09],'Tag','Cu');
+   axes('Parent',pt2,'Position', [0.6 0.55 0.04 0.09],'Tag','Zn');   
+   axes('Parent',pt2,'Position', [0.15 0.45 0.04 0.09],'Tag','Y');
+   axes('Parent',pt2,'Position', [0.2 0.45 0.04 0.09],'Tag','Zr');
+   axes('Parent',pt2,'Position', [0.25 0.45 0.04 0.09],'Tag','Nb');
+   axes('Parent',pt2,'Position', [0.3 0.45 0.04 0.09],'Tag','Mo');
+   axes('Parent',pt2,'Position', [0.35 0.45 0.04 0.09],'Tag','Tc');
+   axes('Parent',pt2,'Position', [0.4 0.45 0.04 0.09],'Tag','Ru');   
+   axes('Parent',pt2,'Position', [0.45 0.45 0.04 0.09],'Tag','Rh');
+   axes('Parent',pt2,'Position', [0.5 0.45 0.04 0.09],'Tag','Pd');
+   axes('Parent',pt2,'Position', [0.55 0.45 0.04 0.09],'Tag','Ag');
+   axes('Parent',pt2,'Position', [0.6 0.45 0.04 0.09],'Tag','Cd');
+   axes('Parent',pt2,'Position', [0.2 0.35 0.04 0.09],'Tag','Hf');
+   axes('Parent',pt2,'Position', [0.2 0.25 0.04 0.09],'Tag','Rf');
+   axes('Parent',pt2,'Position', [0.25 0.25 0.04 0.09],'Tag','Db');
+   axes('Parent',pt2,'Position', [0.3 0.25 0.04 0.09],'Tag','Sg');
+   axes('Parent',pt2,'Position', [0.35 0.25 0.04 0.09],'Tag','Bh');
+   axes('Parent',pt2,'Position', [0.4 0.25 0.04 0.09],'Tag','Hs');
+   axes('Parent',pt2,'Position', [0.45 0.25 0.04 0.09],'Tag','Mt');
+   axes('Parent',pt2,'Position', [0.5 0.25 0.04 0.09],'Tag','Ds');
+   axes('Parent',pt2,'Position', [0.55 0.25 0.04 0.09],'Tag','Rg');
+   axes('Parent',pt2,'Position', [0.6 0.25 0.04 0.09],'Tag','Cn');
+   axes('Parent',pt2,'Position', [0.25 0.35 0.04 0.09],'Tag','Ta');
+   axes('Parent',pt2,'Position', [0.3 0.35 0.04 0.09],'Tag','W');
+   axes('Parent',pt2,'Position', [0.35 0.35 0.04 0.09],'Tag','Re');
+   axes('Parent',pt2,'Position', [0.4 0.35 0.04 0.09],'Tag','Os');   
+   axes('Parent',pt2,'Position', [0.45 0.35 0.04 0.09],'Tag','Ir');
+   axes('Parent',pt2,'Position', [0.5 0.35 0.04 0.09],'Tag','Pt');
+   axes('Parent',pt2,'Position', [0.55 0.35 0.04 0.09],'Tag','Au');
+   axes('Parent',pt2,'Position', [0.6 0.35 0.04 0.09],'Tag','Hg');
+end

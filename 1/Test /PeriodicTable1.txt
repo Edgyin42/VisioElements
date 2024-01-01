@@ -1,0 +1,33 @@
+Case 1:PeriodicTable("H")
+---------------------------------------------------------------------------------------------------------------
+Element: Hydrogen 
+Symbol: H
+Atomic number: 1.
+Atomic weight: 1.0u.
+Electronegativity: 2.20. 
+Description: Hydrogen is an explosive gas and also the lightest element
+Group: IA
+Period:1.
+
+Case 2:PeriodicTable("Ac")
+---------------------------------------------------------------------------------------------------------------
+Element: Actinium 
+Symbol: Ac
+Atomic number: 89.
+Atomic weight: 227.0u.
+Electronegativity: 1.10. 
+Description: Actinium is a radioactive element that is long-lived.
+Group: Actinide Series.
+Period:7. 
+
+Case 3:PeriodicTable("Lr")
+---------------------------------------------------------------------------------------------------------------
+Element: Lawrencium 
+Symbol: Lr
+Atomic number: 103.
+Atomic weight: 266.1u.
+Electronegativity: 1.29. 
+Description: Lawrencium is a radioactive element that is short-lived.
+Group: Actinide Series.
+Period:7.
+
