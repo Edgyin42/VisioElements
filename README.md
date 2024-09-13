@@ -10,10 +10,6 @@
 <div style="text-align:justify; color: #009688;"> <!-- Teal color -->
 Explore the Elements in Style
 
-
-
-Embark on a visually captivating journey through the periodic table with VisioElements – your gateway to a dynamic and interactive exploration of the chemical world. Gone are the days of static tables; VisioElements brings the elements to life, offering an immersive and engaging experience for students, educators, and chemistry enthusiasts alike.
-
 ## Key Features:  <a name="Features"></a> 
 
 Visualized Exploration: Dive into a beautifully crafted, interactive periodic table that transforms the traditional learning experience. Visually appealing representations of each element provide insights into their properties and characteristics.
